@@ -1,0 +1,11 @@
+//Clean Program
+begin
+  print "Good Morning NJIT";
+  name="Smith";
+  r=5;
+  print name," ",r;
+  sum=r+7;
+  sum=sum+2.5;
+  print "Sum: ", sum;
+  
+end
